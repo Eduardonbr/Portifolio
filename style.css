@@ -1,0 +1,47 @@
+
+header p{
+    color: rgb(255, 185, 242);
+    font-weight: 600;
+}
+
+header{
+    background-color: rgb(255, 185, 242);
+    font-weight: 600;
+}
+
+h1{
+    font-size: 63px;
+    color: #c38727;
+    line-height: 1em;
+    text-align: center;
+}
+
+
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+h3{
+    font-size: 20px;
+    color: #c38727;
+    font-weight: 600;
+    text-align: center
+}
+
+nav{
+    font-size: 12px;
+    letter-spacing: 4px;
+    height: 50px;
+    background-color: #feb3f2;
+    padding-right: 40px;
+}
+
+thead{
+   background-color: #feb3f2;
+}
+
+
